@@ -25,7 +25,9 @@ nav {
     background-color: lightblue;
     grid-area: nav;
     display: grid;
+    
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   
 }
 
 

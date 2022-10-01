@@ -71,7 +71,13 @@ aside {
 }
 
 footer {
-    background-color: lightgreen;
+    color: white;
+    background-color: black;
     grid-area: footer;
+}
+footer a{
+    
+    color: white;
+    text-decoration: none;
 }
 

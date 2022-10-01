@@ -31,7 +31,9 @@ nav {
 nav ul{
     display: flex;
     flex-direction: row;
-}
+} 
+
+
 nav img{
     width: 100px;
     height: 100px;

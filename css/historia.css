@@ -1,0 +1,25 @@
+
+nav {
+    background-color: lightblue;
+    grid-area: nav;
+    
+}
+
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+} 
+
+
+nav img{
+    width: 100px;
+    height: 100px;
+}
+
+nav ul li{
+    list-style: none;
+    padding-left: 3em;
+    margin-top: 45px;
+    margin-right: 30px;
+}
